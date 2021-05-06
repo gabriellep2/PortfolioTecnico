@@ -1,2 +1,17 @@
 # PortfolioTecnico
-Repositório criado para guardar trabalhos do curso técnico feitos durante o ano de 2021.
+### Gabrielle da Silva Pires
+Email: gabrielle_s_pires@estudante.sc.senai.br
+
+## Formação Acadêmica
+- Ensino Fundamental I e II completo;
+- Cursando o 2º ano do EM integrado ao Curso Técnico em Desenvolvimento de Sistemas.
+
+## Idiomas
+- <b> Inglês: </b> Nível básico
+- <b> Espanhol: </b> Nível intermediário
+
+## Competências
+- Experiência na plataforma <b> Canva; </b>
+- Conhecimento intermediário de <b> Comandos Linux; </b>
+- Conhecimento básico de <b> Fundamentos de Redes; </b>
+- Conhecimento básico de <b> Programação JAVA. </b>
