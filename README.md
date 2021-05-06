@@ -1,7 +1,7 @@
 # Portfólio Técnico
 ### Gabrielle da Silva Pires
-Email: gabrielle_s_pires@estudante.sc.senai.br
-Celular: (48) 99137-7856
+- Email: gabrielle_s_pires@estudante.sc.senai.br
+- Celular: (48) 99137-7856
 
 ## Formação Acadêmica
 - Ensino Fundamental I e II completo;
