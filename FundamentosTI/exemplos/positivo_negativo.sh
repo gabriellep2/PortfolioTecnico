@@ -2,7 +2,9 @@ localhost:~# vi positivo_negativo.sh
 localhost:~# chmod u+x positivo_negativo.sh
 localhost:~# cat positivo_negativo.sh
 #!/bin/bash
- 
+# Autora: Gabrielle Pires
+# Descrição: Esse arquivo vai ler um valor e escrever se é positivo ou negativo (considerando o valor zero como positivo)
+
    echo "Digite um numero"
    read x
           if [ $x -lt 0 ]
