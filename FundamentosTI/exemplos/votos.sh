@@ -1,6 +1,8 @@
 localhost:~# vi votos.sh
 localhost:~# cat votos.sh
 #!/bin/bash
+# Autora: Gabrielle Pires
+# Descrição: Esse arquivo vai ler o ano atual e o ano de nascimento de uma pessoa, dizendo assim, se ela vai ou não votar naquele ano.
 echo "Digite seu ano atual"
      read ano_atual
 echo "Digite seu ano de nascimento"
