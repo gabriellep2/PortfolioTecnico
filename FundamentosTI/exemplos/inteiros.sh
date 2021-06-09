@@ -2,6 +2,8 @@ localhost:~# vi inteiros.sh
 localhost:~# chmod u+x inteiros.sh
 localhost:~# cat inteiros.sh
 #!/bin/bash
+# Autora: Gabrielle Pires
+# Descrição: Esse arquivo lerá um valor N e imprimirá todos os valores inteiros entre 1 (inclusive) e N (inclusive), sabendo que sempre será n>0
  
 echo "Digite um numero"
 read x
