@@ -2,6 +2,8 @@ localhost:~#vi crescente1-10.sh
 localhost:~# chmod u+x crescente1-10.sh
 localhost:~# cat crescente1-10.sh
 #!/bin/bash
+# Autora: Gabrielle Pires
+# Descrição: Esse arquivo irá imprimir os números de 1 (inclusive) a 10 (inclusive) em ordem crescente.
 i=1
 while [ $i -le 10 ]
 do
