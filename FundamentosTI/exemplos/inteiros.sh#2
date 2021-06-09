@@ -1,0 +1,28 @@
+localhost:~# vi inteiros.sh
+localhost:~# cat inteiros.sh
+#!/bin/bash
+ 
+echo "Digite um numero"
+read x
+  if [ $x -gt 0 ]
+  then
+ 
+       for i in $(seq 1 $x)
+       do
+                echo "- $i"
+       done
+else
+       echo "Digite um numero maior que zero"
+fi
+localhost:~# ./inteiros.sh
+Digite um numero
+0
+Digite um numero maior que zero
+localhost:~# ./inteiros.sh
+Digite um numero
+5
+- 1
+- 2
+- 3
+- 4
+- 5
