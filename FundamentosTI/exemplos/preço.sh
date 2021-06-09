@@ -4,6 +4,7 @@ localhost:~# cat preço.sh
 #!/bin/bash
 # Autora: Gabrielle Pires
 # Descrição: o arquivo irá ler o preço de 15 produtos, calcular e escrever o maior preço lido e a média aritmética dos preços dos produtos
+
 soma=0
 maior=0
 for i in $(seq 1 15)
