@@ -17,3 +17,12 @@
 - Conhecimento básico de <b> Fundamentos de Redes; </b>
 - Conhecimento básico de <b> Programação JAVA. </b>
 - Conhecimento intermediário em <b> PowerPoint e Word </b>
+
+## Códigos Exemplo
+- [while](FundamentosTI/exemplos/crescente1-10.sh)
+- [while-ge](FundamentosTI/exemplos/decrescente10-1.sh)
+- [for](FundamentosTI/exemplos/inteiros.sh)
+- [else](FundamentosTI/exemplos/inteiros.sh#2)
+- [if](FundamentosTI/exemplos/positivo_negativo.sh)
+- [in](FundamentosTI/exemplos/preço.sh)
+- [read](FundamentosTI/exemplos/votos.sh)
