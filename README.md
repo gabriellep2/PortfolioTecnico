@@ -16,6 +16,10 @@
 - [user](FundamentosTI/exemplos/user.sh)
 - [perm](FundamentosTI/exemplos/perm.sh)
 
+## Exemplos da Revisão
+- [condicao.sh](FundamentosTI/exemplos/condicao.sh)
+- [repeticao.sh](FundamentosTI/exemplos/repeticao.sh)
+
 ## Formação Acadêmica
 - Ensino Fundamental I e II completo;
 - Cursando o 2º ano do EM integrado ao Curso Técnico em Desenvolvimento de Sistemas.
