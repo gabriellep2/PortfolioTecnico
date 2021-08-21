@@ -12,6 +12,9 @@
 - [in](FundamentosTI/exemplos/preço.sh)
 - [read](FundamentosTI/exemplos/votos.sh)
 
+## Exemplos de Lógica Computacional
+- [2exemplos](FundamentosTI/exemplos/Lógica Computacional)
+
 ## Códigos da Avaliação
 - [user](FundamentosTI/exemplos/user.sh)
 - [perm](FundamentosTI/exemplos/perm.sh)
