@@ -13,7 +13,7 @@
 - [read](FundamentosTI/exemplos/votos.sh)
 
 ## Exemplos de Lógica Computacional
-- [ELG](FundamentosTI/exemplos/Lógica Computacional)
+- [ELG](FundamentosTI/exemplos/logicacomputacional)
 
 ## Códigos da Avaliação
 - [user](FundamentosTI/exemplos/user.sh)
