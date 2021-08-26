@@ -22,7 +22,7 @@ ________________________________________________________________________________
 - Conhecimento intermediário em <b> PowerPoint e Word </b>
 _________________________________________________________________________________________________________________________________________________________________________
 
-## Códigos Exemplo
+## Fundamentos de TI
 
 - [while](FundamentosTI/exemplos/crescente1-10.sh)
 #### Esse arquivo irá imprimir os números de 1 (inclusive) a 10 (inclusive) em ordem crescente.
@@ -46,10 +46,11 @@ ________________________________________________________________________________
 #### Esse arquivo vai ler o ano atual e o ano de nascimento de uma pessoa, dizendo assim, se ela vai ou não votar naquele ano.
 _________________________________________________________________________________________________________________________________________________________________________
 
-## Exemplos de Lógica Computacional
-
-- [ELG](FundamentosTI/exemplos/logicacomputacional)
-#### Dois exemplos de Códigos JAVA
+## Lógica Computacional
+#### 3 exemplos de Códigos JAVA
+- [acerto](LogicaComputacional/exemplos/acerto)
+- [aula](LogicaComputacional/exemplos/aula)
+- [nome](LogicaComputacional/exemplos/nome)
 _________________________________________________________________________________________________________________________________________________________________________
 
 ## Códigos da Avaliação
